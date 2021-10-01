@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MVVM Login</string>
+    <string name="please_login">Please Login to continue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="please_register">Please Register first!</string>
 </resources>
